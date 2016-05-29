@@ -6,6 +6,17 @@ refactor: refactoring production code
 test: adding tests, refactoring test; no production code change
 chore: updating build tasks, package manager configs, etc; no production code change
 
+git
+clone
+commit
+log
+diff
+checkout
+master
+init
+status
+
 get diff
 get diff --staged
 get diff commitId commitId
+git branch

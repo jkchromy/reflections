@@ -1,11 +1,3 @@
-git
-clone
-commit
-log
-diff
-checkout
-master
-
 HOW DID VIEWING A DIFF BETWEEN TWO VERSIONS OF A FILE HELP YOU SEE THE BUG THAT WAS INTRODUCED?
 
 -The number of lines I needed to manually check is greatly reduced.
