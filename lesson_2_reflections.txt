@@ -12,6 +12,8 @@ WHAT VALUE DO YOU THINK IT OFFERS?
 HOW CAN YOU USE THE STAGING AREA TO MAKE SURE YOU HAVE ONE COMMIT PER LOGICAL
 CHANGE?
 
+-even if multiple thing in multiple files have been changed, the staging area can be used to break changes into smaller pieces, single or fewer files, before the commit.
+
 WHAT ARE SOME SITUATIONS WHEN BRANCHES WOULD BE HELPFUL IN KEEPING YOUR HISTORY
 ORGANIZED? HOW WOULD BRANCHES HELP?
 
