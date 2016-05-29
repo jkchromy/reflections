@@ -20,3 +20,5 @@ get diff
 get diff --staged
 get diff commitId commitId
 git branch
+
+git branches allow the programmer to switch to a different branch if he feels like working on some other feature, without worrying about breaking things or even remembering what he was working on.
