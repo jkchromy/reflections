@@ -6,6 +6,8 @@ refactor: refactoring production code
 test: adding tests, refactoring test; no production code change
 chore: updating build tasks, package manager configs, etc; no production code change
 
+git add (staging area or index) makes it easy to break up a "too large" code change into smaller logical commits. a quick bug fix can be snuck in the middle of a work session.
+
 git
 clone
 commit
