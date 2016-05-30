@@ -20,5 +20,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
---Emailing files that have changed back and forth.
+--Emailing files that have changed back and forth without GitHub.
 --GitHub forces every user to be responsible for their own changes, and allows every contributer instant access to changes.
+--Everyone can see all bugs and other issues and work on them.
