@@ -27,3 +27,5 @@ git reset --hard <commit_before_failed_merge_or_other_tragedy>
 git show commit #show difference between commit and it's parent
 
 git branches allow the programmer to switch to a different branch if he feels like working on some other feature, without worrying about breaking things or even remembering what he was working on.
+
+git push local_branch remote_name_or_url
