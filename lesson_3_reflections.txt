@@ -7,3 +7,9 @@ Why might you want to always pull changes manually rather than having Git automa
 
 --Having your local code change randomly while you're working on it sounds frustrating.
 --Automatic updating would prevent you from working on older commits.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+--A branch is created inside a single repository.
+--A clone is a copy of a repository.
+--A fork is a clone created for you by GitHub of a repository on it's site.
